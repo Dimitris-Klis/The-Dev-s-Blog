@@ -1,0 +1,65 @@
+h1 {
+    color: #94c5ac;
+    background-color: #a73169;
+    font-size: 80px;
+    text-decoration: underline;
+    font-family: 'Agency FB Local File';
+    text-align: center;
+    
+}
+h2 {
+    color: #94c5ac;
+    background-color: #a73169;
+    font-size: 32px;
+    font-family: 'Agency FB Local File';
+}
+p.Description {
+    background-color: #1b1e34;
+    color: #6aaf9d;
+    font-family: 'Agency FB Local File';
+    text-align: left;
+    font-size: 24px;
+}
+@font-face {
+    font-family: "Agency FB Local File";
+    src: url("contents/fonts/AGENCYR.ttf") format('truetype');
+}
+body {
+    background-color: #201127;
+}
+p.fade1 {
+    background-color: #a73169;
+    color: #a73169;
+    line-height: 20px;
+    font-size: 16px;
+}
+p.fade2 {
+    background-color: #a73169;
+    color: #a73169;
+    line-height: 10px;
+    font-size: 12px;
+}
+p.fade3 {
+    background-color: #a73169;
+    color: #a73169;
+    line-height: 5px;
+    font-size: 8px;
+}
+hr {
+    border-top: 2px double #ffeb99;
+    border-bottom: 2px double #ffeb99;
+}
+a:link {
+    background-color: #1b1e34;
+    color: #ffeb99;
+    font-family: 'Agency FB Local File';
+    text-align: left;
+    font-size: 24px;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #ffeb99;
+    background-color: #1b1e34;
+    text-decoration: none;
+}
