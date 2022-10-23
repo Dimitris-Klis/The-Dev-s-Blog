@@ -67,3 +67,10 @@ p.Date {
     text-align: left;
     font-size: 16px;
 }
+ul {
+    background-color: #1b1e34;
+    color: #6aaf9d;
+    font-family: 'Agency FB Local File';
+    text-align: left;
+    font-size: 24px;
+}
