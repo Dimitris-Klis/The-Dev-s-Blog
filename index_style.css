@@ -63,3 +63,11 @@ a:visited {
     background-color: #1b1e34;
     text-decoration: none;
 }
+ul.links {
+    background-color: #1b1e34;
+    color: #ffeb99;
+    font-family: 'Agency FB Local File';
+    text-align: left;
+    font-size: 24px;
+    text-decoration: underline;
+}
