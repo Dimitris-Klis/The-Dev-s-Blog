@@ -71,3 +71,9 @@ ul.links {
     font-size: 24px;
     text-decoration: underline;
 }
+p.Date {
+    color: #a73169;
+    font-family: 'Agency FB Local File';
+    text-align: left;
+    font-size: 16px;
+}
